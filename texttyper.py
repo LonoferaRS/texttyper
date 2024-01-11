@@ -29,7 +29,7 @@ time.sleep(1)
 
 time.sleep(1)
 typingPrint("Good bye!\n")
-typingPrint("This screen will clear itself in 3..")
+typingPrint("This screen will clear itself in 3..
 time.sleep(1)
 typingPrint("2..")
 time.sleep(1)
